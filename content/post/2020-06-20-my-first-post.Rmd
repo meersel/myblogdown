@@ -1,0 +1,18 @@
+---
+title: My First Post
+author: Miguel Eersel
+date: '2020-06-20'
+slug: my-first-post
+categories: []
+tags: []
+---
+
+My first Blogdown post (via Github update 6)
+
+
+```{r}
+
+plot(iris)
+
+```
+
