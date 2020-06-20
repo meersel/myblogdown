@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-My first Blogdown post (via Github update 6)
+My first Blogdown post (via Github update 7)
 
 
 ```{r}
